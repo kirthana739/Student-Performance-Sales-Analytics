@@ -95,7 +95,9 @@ python numpy1_basics.py
 ##  Project Screenshots
 ## Power BI Dashboard
 
-![Student Performance Dashboard](DASHBOARD.PNG.png)
+
+![Student Performance Dashboard](STUDENT_PERFORMANCE_DASHBOARD.pbix
+)
 
 
 
