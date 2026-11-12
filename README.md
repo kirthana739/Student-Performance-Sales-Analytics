@@ -93,6 +93,13 @@ python numpy1_basics.py
 ```
 
 ##  Project Screenshots
+## Power BI Dashboard
+
+![Student Performance Dashboard](DASHBOARD.PNG.png)
+
+
+
+Built with Power BI and DAX: KPI cards, Top 5 students, subject-wise averages, and pass/fail analysis.
 
 Screenshots of array creation, mathematical operations, statistical analysis, indexing, slicing and array manipulation are available in the `SCREENSHOT` folder.
 
