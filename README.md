@@ -1,12 +1,12 @@
-# 📊 Student Performance & Sales Analytics Using NumPy
+#  Student Performance & Sales Analytics Using NumPy
 
-## 📌 About the Project
+##  About the Project
 
 This project demonstrates the use of Python and NumPy to perform numerical operations and basic data analysis.
 
 It combines student academic performance analysis with business sales analysis using NumPy arrays, mathematical operations and statistical functions.
 
-## 🎯 Project Objectives
+##  Project Objectives
 
 - Understand NumPy arrays and their dimensions.
 - Perform array creation, indexing and slicing.
@@ -14,7 +14,7 @@ It combines student academic performance analysis with business sales analysis u
 - Analyse student marks and business sales.
 - Practise array reshaping and manipulation.
 
-## ✨ Features
+##  Features
 
 ### 1. Student Performance Analysis
 - Created 2D NumPy arrays to store student marks.
@@ -46,14 +46,14 @@ It combines student academic performance analysis with business sales analysis u
 - Performed row-wise and column-wise calculations using `axis`.
 - Applied functions such as `sum()`, `mean()`, `max()` and `min()`.
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - Python
 - NumPy
 - Visual Studio Code
 - GitHub
 
-## 📂 Project Structure
+##  Project Structure
 
 ```text
 Student-Performance-Sales-Analytics/
@@ -76,7 +76,7 @@ Student-Performance-Sales-Analytics/
         └── array_manipulation3.png
 ```
 
-## ⚙️ How to Run the Project
+## How to Run the Project
 
 1. Install Python on your computer.
 2. Install NumPy using:
@@ -92,11 +92,11 @@ pip install numpy
 python numpy1_basics.py
 ```
 
-## 📸 Project Screenshots
+##  Project Screenshots
 
 Screenshots of array creation, mathematical operations, statistical analysis, indexing, slicing and array manipulation are available in the `SCREENSHOT` folder.
 
-## 📚 Learning Outcomes
+##  Learning Outcomes
 
 Through this project, I gained practical knowledge of NumPy arrays, array manipulation, mathematical calculations and basic data analysis using Python.
 
